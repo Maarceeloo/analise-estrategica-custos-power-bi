@@ -83,11 +83,11 @@ A segunda página detalha os custos analisados, categorias, valores antes e depo
 
 ## 📁 Arquivos do projeto
 
+- `analise-estrategica-custos.pbix` — Arquivo editável do Power BI, contendo o modelo de dados, as medidas DAX, as transformações no Power Query e os dashboards desenvolvidos.
 - `base-custos-simulada.xlsx` — base de dados simulada utilizada no dashboard
 - `dashboard-analise-custos.pdf` — versão completa do dashboard em PDF
 - `dashboard-visao-executiva.jpg` — visão executiva
 - `dashboard-detalhamento.png` — detalhamento dos custos
-- 💡 O arquivo .pbix não é disponibilizado publicamente neste repositório. Para fins de avaliação técnica, poderá ser fornecido mediante solicitação.
 
 ---
 
